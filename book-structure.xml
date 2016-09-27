@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 09/21/2019开始设计，09/27/2016完成目录结构，用于生成未来的tex文件 -->
+<Book type="Pdf-Printed" revison="1" tex-friendly="True" web-link="None" id="3">
+	<Date>
+		<year>2016</year>
+		<month>09</month>
+		<day>27</day>
+	</Date>
+	<Title>
+		<name_zh>普通反民科学</name_zh>
+		<name_en>General Antiminkeology</name_en>
+		<fix>PDF第一版</fix>
+	</Title>
+	<Contributors ordered="False">
+		<Person id="1">
+			<name>風島文</name>
+			<tiebaID>文件岛</tiebaID>
+			<contact>kazeshimaaya@gmail.com</contact>
+		</Person>
+	</Contributors>
+	<Features ordered="True">
+		<Archives time-reversed="False" ordered="True">
+			<Book type="Inside-Test-Printed" revison="1" tex-friendly="False" web-link="http://tieba.baidu.com/p/3208787498" id="0">
+				<Date>
+					<year>2014</year>
+					<month>08</month>
+					<day>04</day>
+				</Date>
+				<Title>
+					<name_zh>普通反民科学</name_zh>
+					<name_en>General Antiminkeology</name_en>
+					<fix>内部试印版</fix>
+				</Title>
+			</Book>
+			<Book type="Test-Printed" revison="1" tex-friendly="False" web-link="http://tieba.baidu.com/p/3209623567" id="1">
+				<Date>
+					<year>2014</year>
+					<month>08</month>
+					<day>05</day>
+				</Date>
+				<Title>
+					<name_zh>普通反民科学</name_zh>
+					<name_en>General Antiminkeology</name_en>
+					<fix>试印第一版</fix>
+				</Title>
+			</Book>
+			<Book type="Test-Printed" revison="2" tex-friendly="False" web-link="http://tieba.baidu.com/p/4380596155" id="2">
+				<Date>
+					<year>2016</year>
+					<month>02</month>
+					<day>29</day>
+				</Date>
+				<Title>
+					<name_zh>普通反民科学</name_zh>
+					<name_en>General Antiminkeology</name_en>
+					<fix>试印第二版</fix>
+				</Title>
+			</Book>
+		</Archives>
+		<Intro>
+			<Updates>
+				<addition>无新增内容</addition>
+				<modification>换用xml+tex+pdf作为载体</modification>
+				<modification>修正了上版的小错误</modification>
+			</Updates>
+			<Annotations>
+				<Marker id="1" character="★">
+					<meaning>带『★』★号为趣味性好，参与度高的核心内容</meaning>
+					<instruction>由于内容过多，请优先浏览★内容，并且避免逐章逐节学习</instruction>
+				</Marker>
+				<Marker id="2" character="※">
+					<meaning>带『※』的为困难或者冷门的选修内容；</meaning>
+					<instruction>供学有余力的反民科自学</instruction>
+				</Marker>
+				<Marker id="3" character="(눈‸눈)">
+					<meaning>注明『(눈‸눈)』的是 大 坑</meaning>
+				</Marker>
+			</Annotations>
+		</Intro>
+	</Features>
+	<Contents ordered="True">
+		<Chapter id="0">
+			<Title>
+				<name_zh>绪论 反民科学的研究内容</name_zh>
+			</Title>
+			<Section id="1">
+				<Title>
+					<name_zh>初识民科</name_zh>
+				</Title>
+			</Section>
+			<Section id="2">
+				<Title>
+					<name_zh>深入认识民科</name_zh>
+				</Title>
+			</Section>
+			<Section id="3">
+				<Title>
+					<name_zh>认识反民科</name_zh>
+				</Title>
+			</Section>
+			<Section id="4">
+				<Title>
+					<name_zh>反民科的任务</name_zh>
+				</Title>
+			</Section>
+			<Section id="5">
+				<Title>
+					<name_zh>反民科的未来</name_zh>
+				</Title>
+			</Section>
+		</Chapter>
+		<Chapter id="1">
+			<Title>
+				<name_zh>民科动物学</name_zh>
+				<name_en>Minke Zoology</name_en>
+			</Title>
+			<Section id="1">
+				<Title>
+					<name_zh>民科形态学观察记录</name_zh>
+				</Title>
+			</Section>
+			<Section id="2">
+				<Title>
+					<name_zh>民科分类学理论</name_zh>
+				</Title>
+			</Section>
+			<Section id="3">
+				<Title>
+					<pre_fix>★★</pre_fix>
+					<name_zh>开源的民科数据库——民科维基</name_zh>
+				</Title>
+			</Section>
+			<Section id="4">
+				<Title>
+					<pre_fix>※</pre_fix>
+					<name_zh>一些野生民科的目击纪录</name_zh>
+				</Title>
+			</Section>
+		</Chapter>
+		<Chapter id="2">
+			<Title>
+				<name_zh>反民科学研究基础——主流科学</name_zh>
+			</Title>
+			<Section id="1">
+				<Title>
+					<name_zh>科学研究方法</name_zh>
+				</Title>
+			</Section>
+			<Section id="2">
+				<Title>
+					<name_zh>主流数学</name_zh>
+				</Title>
+			</Section>
+			<Section id="3">
+				<Title>
+					<name_zh>主流物理学</name_zh>
+				</Title>
+			</Section>
+			<Section id="4">
+				<Title>
+					<name_zh>主流化学</name_zh>
+				</Title>
+			</Section>
+			<Section id="5">
+				<Title>
+					<name_zh>主流生物学、生理学和医学</name_zh>
+				</Title>
+			</Section>
+			<Section id="6">
+				<Title>
+					<name_zh>主流计算机科学</name_zh>
+				</Title>
+			</Section>
+		</Chapter>
+		<Chapter id="3">
+			<Title>
+				<name_zh>反民科学的应用和实践技巧</name_zh>
+			</Title>
+			<Section id="1">
+				<Title>
+					<name_zh>百度贴吧技巧</name_zh>
+				</Title>
+			</Section>
+			<Section id="2">
+				<Title>
+					<pre_fix>★</pre_fix>
+					<name_zh>反民科学共同体（吧友信息汇总）</name_zh>
+				</Title>
+			</Section>
+			<Section id="3">
+				<Title>
+					<name_zh>反民科的三次元生活</name_zh>
+				</Title>
+			</Section>
+		</Chapter>
+		<Chapter id="4">
+			<Title>
+				<name_zh>反民科的娱乐活动</name_zh>
+			</Title>
+		</Chapter>
+	</Contents>
+	<Appendix>
+		<Title>
+			<name_zh>反民科吧文学创作（含转载）一览</name_zh>
+		</Title>
+	</Appendix>
+</Book>
